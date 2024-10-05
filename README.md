@@ -84,6 +84,8 @@ To deploy the application using Render:
 
 ## Deployed Application
 
+https://text-editor-jo56.onrender.com
+
 ## License
 
 This project is licensed under the [MIT LICENSE](LICENSE).
