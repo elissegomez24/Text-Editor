@@ -69,10 +69,10 @@ A simple text editor application built with modern web technologies, featuring a
 
 ## Screenshots
 
-![alt text](images/Screenshot1.png)
-![alt text](images/Screenshot2.png)
-![alt text](images/Screenshot3.png)
-![alt text](images/Screenshot4.png)
+![Text-Editor/images/Text Editor1.png](<images/Text Editor1.png>)
+![Text-Editor/images/Text Editor2.png](<images/Text Editor2.png>)
+![Text-Editor/images/Text Editor3.png](<images/Text Editor3.png>)
+![Text-Editor/images/Text Editor4.png](<images/Text Editor4.png>)
 
 ## Deployment on Render
 
